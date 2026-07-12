@@ -42,6 +42,19 @@ Each dataset includes a dedicated Python script that reads the CSV file and appl
 ```bash
    python arizona.py
 ```
+or
+```bash
+arkansas.py
+```
+or
+```bash
+police.py
+```
+or
+```bash
+practice.py
+```
+
 
 **Note:** `arizona.csv.7z` is compressed due to file size. Extract it using 7-Zip or WinRAR before running `arizona.py`.
 
