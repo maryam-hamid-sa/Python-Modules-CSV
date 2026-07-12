@@ -1,3 +1,5 @@
+<img width="467" height="220" alt="OIP" src="https://github.com/user-attachments/assets/3205c604-aa3e-414b-b7e7-8321549a48bf" />
+
 # Python-Modules-CSV
 
 A Python project demonstrating core built-in modules and file handling techniques, including data extraction and filtering from real-world datasets.
