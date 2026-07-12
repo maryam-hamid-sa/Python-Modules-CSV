@@ -40,17 +40,19 @@ Each dataset includes a dedicated Python script that reads the CSV file and appl
 3. Update the file path inside each script to match your local CSV location
 4. Run any script using Python
 ```bash
-   python arizona.py
-```
-```bash
-   python arkansas.py
+   python practice.py
 ```
 ```bash
    python police.py
 ```
 ```bash
-   python practice.py
+   python arizona.py
 ```
+```bash
+   python arkansas.py
+```
+
+
 
 
 **Note:** `arizona.csv.7z` is compressed due to file size. Extract it using 7-Zip or WinRAR before running `arizona.py`.
