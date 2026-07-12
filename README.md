@@ -24,7 +24,8 @@ Each dataset includes a dedicated Python script that reads the CSV file and appl
 | `police.py` | `police.csv` | Filters records by gender, violation type, race, and outcome |
 | `practice.py` | `practice.csv` | Filters records by category, year, income type, and value threshold |
 
-<img width="1780" height="838" alt="orig" src="https://github.com/user-attachments/assets/fc9c5e51-1547-4555-8656-63d1e88cacf6" />
+<img width="1800" height="800" alt="csv-data-flow" src="https://github.com/user-attachments/assets/a41e6861-0da3-40c5-8bc9-720a1ac826fe" />
+
 
 
 ## How to Run
