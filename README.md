@@ -44,15 +44,15 @@ Each dataset includes a dedicated Python script that reads the CSV file and appl
 ```
               or
 ```bash
-arkansas.py
+   python arkansas.py
 ```
              or
 ```bash
-police.py
+   python police.py
 ```
             or
 ```bash
-practice.py
+   python practice.py
 ```
 
 
