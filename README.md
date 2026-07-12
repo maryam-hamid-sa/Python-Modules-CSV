@@ -1,6 +1,3 @@
-<img width="1780" height="838" alt="orig" src="https://github.com/user-attachments/assets/fc9c5e51-1547-4555-8656-63d1e88cacf6" />
-
-
 # Python-Modules-CSV
 
 A Python project demonstrating core built-in modules and file handling techniques, including data extraction and filtering from real-world datasets.
@@ -26,6 +23,9 @@ Each dataset includes a dedicated Python script that reads the CSV file and appl
 | `arkansas.py` | `arkansas.csv` | Filters records by race, gender, status, and age |
 | `police.py` | `police.csv` | Filters records by gender, violation type, race, and outcome |
 | `practice.py` | `practice.csv` | Filters records by category, year, income type, and value threshold |
+
+<img width="1780" height="838" alt="orig" src="https://github.com/user-attachments/assets/fc9c5e51-1547-4555-8656-63d1e88cacf6" />
+
 
 ## How to Run
 
