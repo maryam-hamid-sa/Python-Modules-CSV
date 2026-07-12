@@ -42,15 +42,12 @@ Each dataset includes a dedicated Python script that reads the CSV file and appl
 ```bash
    python arizona.py
 ```
-              or
 ```bash
    python arkansas.py
 ```
-             or
 ```bash
    python police.py
 ```
-            or
 ```bash
    python practice.py
 ```
